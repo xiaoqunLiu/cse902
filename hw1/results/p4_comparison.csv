@@ -1,0 +1,5 @@
+config,test_recon,test_kl_sum,active_units,pca_scale_ratio,mae_prior_replace,mae_permute,best_recon_epoch
+VAE-A,214.81,219.561,16,4.78,0.2632,0.2491,20
+VAE-B,224.59,17.043,16,1.18,0.2598,0.2458,19
+VAE-C,244.65,6.788,8,1.02,0.2323,0.234,15
+VAE-D,243.72,7.027,11,1.02,0.2593,0.2343,2

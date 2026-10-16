@@ -1,0 +1,42 @@
+[
+  {
+    "config": "VAE-A",
+    "test_recon": 214.81,
+    "test_kl_sum": 219.561,
+    "active_units": 16,
+    "pca_scale_ratio": 4.78,
+    "mae_prior_replace": 0.2632,
+    "mae_permute": 0.2491,
+    "best_recon_epoch": 20
+  },
+  {
+    "config": "VAE-B",
+    "test_recon": 224.59,
+    "test_kl_sum": 17.043,
+    "active_units": 16,
+    "pca_scale_ratio": 1.18,
+    "mae_prior_replace": 0.2598,
+    "mae_permute": 0.2458,
+    "best_recon_epoch": 19
+  },
+  {
+    "config": "VAE-C",
+    "test_recon": 244.65,
+    "test_kl_sum": 6.788,
+    "active_units": 8,
+    "pca_scale_ratio": 1.02,
+    "mae_prior_replace": 0.2323,
+    "mae_permute": 0.234,
+    "best_recon_epoch": 15
+  },
+  {
+    "config": "VAE-D",
+    "test_recon": 243.72,
+    "test_kl_sum": 7.027,
+    "active_units": 11,
+    "pca_scale_ratio": 1.02,
+    "mae_prior_replace": 0.2593,
+    "mae_permute": 0.2343,
+    "best_recon_epoch": 2
+  }
+]
